@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "乙女解剖 / DECO*27（Cover） ver.Sou",
+  "base_artist": "Sou",
+  "createdAt": "2025-12-18T07:47:07.273511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乙女解剖",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_乙女解剖_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乙女解剖",
+      "artist": "DECO*27 & 初音ミク",
+      "has_synced": true,
+      "path": "select/02_乙女解剖_DECO_27_&_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "乙女解剖",
+      "artist": "DECO*27 & Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_乙女解剖_DECO_27_&_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "乙女解剖",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_乙女解剖_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "乙女解剖",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_乙女解剖_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "乙女解剖",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_乙女解剖_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "乙女解剖",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/07_乙女解剖_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "乙女解剖",
+      "artist": "Roselia (相羽あいな, 工藤晴香, 遠藤ゆりか, 櫻川めぐ, 明坂聡美)",
+      "has_synced": true,
+      "path": "select/08_乙女解剖_Roselia_(相羽あいな,_工藤晴香,_遠藤ゆりか,_櫻川めぐ,_明坂聡美).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "乙女解剖 (TeddyLoid Alllies Remix)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/09_乙女解剖_(TeddyLoid_Alllies_Remix)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "乙女解剖 - ムウ Cover",
+      "artist": "MILGRAM ムウ (CV: 香里有佐)",
+      "has_synced": false,
+      "path": "select/10_乙女解剖_-_ムウ_Cover_MILGRAM_ムウ_(CV__香里有佐).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "乙女解剖 (ムウ Cover)",
+      "artist": "MILGRAM ムウ (CV: 香里有佐)",
+      "has_synced": false,
+      "path": "select/11_乙女解剖_(ムウ_Cover)_MILGRAM_ムウ_(CV__香里有佐).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "乙女解剖 - Cover",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/12_乙女解剖_-_Cover_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "乙女解剖 (Cover)",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/13_乙女解剖_(Cover)_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "乙女解剖 (Cover)",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/14_乙女解剖_(Cover)_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "乙女解剖 (ムウ Cover)",
+      "artist": "MILGRAM 楠夢羽 (CV: 香里有佐)",
+      "has_synced": false,
+      "path": "select/15_乙女解剖_(ムウ_Cover)_MILGRAM_楠夢羽_(CV__香里有佐).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乙女解剖",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/pl_01_乙女解剖_Sou.txt"
+    }
+  ]
+}
